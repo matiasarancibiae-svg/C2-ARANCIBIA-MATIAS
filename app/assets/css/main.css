@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+@theme {
+  --color-course-canvas-start: #f7fef7;
+  --color-course-canvas-glow: #dcfce7;
+  --color-course-canvas-end: #f8fafc;
+  --color-course-surface: #ffffff;
+  --color-course-surface-soft: #f8fafc;
+  --color-course-surface-accent: #ecfdf5;
+  --color-course-line: #e2e8f0;
+  --color-course-line-soft: #f1f5f9;
+  --color-course-line-accent: #d1fae5;
+  --color-course-accent: #047857;
+  --color-course-accent-strong: #064e3b;
+  --color-course-header: #022c22;
+  --color-course-text: #0f172a;
+  --color-course-text-soft: #475569;
+  --color-course-text-muted: #64748b;
+}
